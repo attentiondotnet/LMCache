@@ -24,7 +24,7 @@ py-cpuinfo
 # torch._dynamo triggers this via inspect.getmodule() during compilation.
 pytest
 pyyaml
-pyzmq >= 25.0.0
+pyzmq >= 27.2.0
 redis
 safetensors
 setuptools>=77.0.3,<81.0.0
